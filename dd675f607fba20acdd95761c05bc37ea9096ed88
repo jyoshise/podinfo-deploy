@@ -1,0 +1,1 @@
+{"jobID":"f8f49c98-116a-bcb0-3bdc-44b2255cdb32","spec":{"type":"policy","cause":{"Message":"","User":"Junichi Yoshise \u003cyoshise@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
